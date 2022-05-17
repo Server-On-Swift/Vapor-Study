@@ -26,7 +26,7 @@
 
 ## 📝 Records
 
-- [Notion](https://www.notion.so/yeniful/Vapor-9ba3cc950e6848a392934014252b0f19)
+- [Notion](https://backspirit.notion.site/SOS-Server-On-Swift-ece7d7a73f614784bac173165e8714b7)
 - [스마일의 저장소](./smile/)
 - [미뉴의 저장소](./meenu/)
 - [예니의 저장소](./yeniful/)
