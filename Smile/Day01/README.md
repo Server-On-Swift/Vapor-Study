@@ -5,6 +5,8 @@
     - [Installation of the tools](#Installation-of-the-tools)
     - [Practice](#Practice)
 
+<br>
+
 ## Reference
 
 - [Vapor 4 레슨 1 시작하기](https://www.youtube.com/watch?v=CD283bLteP0&t=3s)
@@ -30,8 +32,8 @@
 
 ### Warning
 
-<img src=./imageFiles/01.jpg>
-<img src=./imageFiles/02.jpg>
+- <img width=600 src=./imageFiles/01.jpg>
+- <img width=600 src=./imageFiles/02.jpg>
 
 <br>
 
@@ -45,7 +47,7 @@
 
 ### Run
 
-<img src=./imageFiles/03.jpg>
-<img src=./imageFiles/04.jpg>
+- <img width=600 src=./imageFiles/03.jpg>
+- <img width=600 src=./imageFiles/04.jpg>
 
 <br>
