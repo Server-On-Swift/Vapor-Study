@@ -27,7 +27,7 @@
 ## 📝 Records
 
 - [Notion](https://backspirit.notion.site/SOS-Server-On-Swift-ece7d7a73f614784bac173165e8714b7)
-- [스마일의 저장소](./smile/)
+- [스마일의 저장소](./Smile/)
 - [미뉴의 저장소](./meenu/)
 - [예니의 저장소](./yeniful/)
 - [알로라의 저장소](./alola/)
