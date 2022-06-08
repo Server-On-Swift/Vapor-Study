@@ -18,7 +18,7 @@
 
 ## 👨🏻‍💻👩🏻‍💻 Members
 
-|<img src="https://github.com/sustainable-git.png">|<img src="https://github.com/taek0622.png">|<img src="https://github.com/yeniful.png">|<img src="https://github.com/compuTasha.png">|<img src="https://github.com/moonjs0113.png">|<img src="https://github.com/deslog.png">|
+|<img src="https://github.com/sustainable-git.png">|<img src="https://github.com/taek0622.png">|<img src="https://github.com/yeniful.png">|<img src="https://github.com/moonjs0113.png">|<img src="https://github.com/deslog.png">|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Smile](https://github.com/sustainable-git)|[Meenu](https://github.com/taek0622)|[yeni](https://github.com/yeniful)|[moonjs0113](https://github.com/moonjs0113)|[JI SOO](https://github.com/deslog)|
 
