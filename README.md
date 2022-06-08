@@ -20,7 +20,7 @@
 
 |<img src="https://github.com/sustainable-git.png">|<img src="https://github.com/taek0622.png">|<img src="https://github.com/yeniful.png">|<img src="https://github.com/compuTasha.png">|<img src="https://github.com/moonjs0113.png">|<img src="https://github.com/deslog.png">|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|[Smile](https://github.com/sustainable-git)|[Meenu](https://github.com/taek0622)|[yeni](https://github.com/yeniful)|[Alola](https://github.com/compuTasha)|[moonjs0113](https://github.com/moonjs0113)|[JI SOO](https://github.com/deslog)|
+|[Smile](https://github.com/sustainable-git)|[Meenu](https://github.com/taek0622)|[yeni](https://github.com/yeniful)|[moonjs0113](https://github.com/moonjs0113)|[JI SOO](https://github.com/deslog)|
 
 <br>
 
@@ -30,6 +30,5 @@
 - [스마일의 저장소](./Smile/)
 - [미뉴의 저장소](./meenu/)
 - [예니의 저장소](./yeniful/)
-- [알로라의 저장소](./alola/)
 - [레이의 저장소](./Rey/)
 - [브라운의 저장소](./brown/)
